@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I’m **Shijie Wang**, a master’s student at the Big Data Industry Research Institute of Shanxi University, supervised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/) and Associate Prof. [Xinyan Liang](https://xinyanliang.github.io/). My research focuses on:
+Welcome to my personal website! I’m Shijie Wang, a master’s student at the Big Data Industry Research Institute of Shanxi University, supervised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/) and Associate Prof. [Xinyan Liang](https://xinyanliang.github.io/). My research focuses on:
 
 - Signal Processing  
 - Machine Learning  
