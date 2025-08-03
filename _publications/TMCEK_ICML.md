@@ -2,9 +2,9 @@
 title: "Trusted Multi-View Classification with Expert Knowledge Constraints"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/TMCEK_ICML
 excerpt: 'This paper is about fixing trusted issue.'
-date: 2024-02-17
+date: 2025-05
 venue: 'ICML'
 paperurl: 'https://openreview.net/pdf?id=U64wEbM7NB'
 citation: ''
