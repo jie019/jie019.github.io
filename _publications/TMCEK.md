@@ -7,7 +7,7 @@ excerpt: 'This paper is about fixing trusted issue.'
 date: 2025-05
 venue: 'ICML'
 paperurl: 'https://openreview.net/pdf?id=U64wEbM7NB'
-citation: ''
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 Trusted multi-view classification (TMVC) based on the Dempster-Shafer theory has gained significant recognition for its reliability in safety-critical applications. However, existing methods predominantly focus on providing confidence levels for decision outcomes without explaining the reasoning behind these decisions.
