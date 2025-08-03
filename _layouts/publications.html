@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<!-- 这里会先渲染 publications.md 中的 markdown，也就是刚才写的两行说明 -->
+<div class="markdown-body">
+  {{ content }}
+</div>
+
+<!-- 然后再循环渲染每个 publication -->
+<ul class="publications-list">
+{% for pub in site.publications %}
+  <li>
+    <h3>{{ pub.title }}</h3>
+    <p>{{ pub.venue }}, {{ pub.date | date: "%Y" }}</p>
+    <p>{{ pub.excerpt }}</p>
+    {% if pub.download %}
+      <a href="{{ pub.download }}">Download Paper</a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
