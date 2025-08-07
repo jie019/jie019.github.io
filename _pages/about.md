@@ -12,7 +12,9 @@ Welcome to my personal website! I’m Shijie Wang, a master’s student at the B
 - Signal Processing  
 - Machine Learning  
   - Uncertainty Estimation  
-  - Multimodal Learning  
+  - Multimodal Learning
+  
+If you have any questions, comments, or collaboration ideas, please feel free to reach out and discuss with me.
 
 ## 📰 News
 
