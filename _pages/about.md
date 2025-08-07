@@ -14,7 +14,7 @@ Welcome to my personal website! I’m Shijie Wang, a master’s student at the B
   - Uncertainty Estimation  
   - Multimodal Learning
   
-If you have any questions, comments, or collaboration ideas, please feel free to reach out and discuss with me.
+If you have any questions, comments or collaboration ideas, please feel free to reach out and discuss with me.
 
 ## 📰 News
 
