@@ -16,5 +16,6 @@ Welcome to my personal website! I’m Shijie Wang, a master’s student at the B
 
 ## 📰 News
 
+- **2025-08** — I have been invited to be a reviewer for the AAAI 2026.
 - **2025-05** — One paper accepted at **ICML**, many thanks to all co-authors!  
-- **2025-05** — One paper accepted at **IJCAI**, many thanks to all co-authors!  
+- **2025-05** — One paper accepted at **IJCAI**, many thanks to all co-authors!
