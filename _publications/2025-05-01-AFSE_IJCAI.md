@@ -6,7 +6,7 @@ permalink: 2025-05-01-AFSE_IJCAI
 excerpt: 'This paper is about fixing inter-frame association issue.'
 date: 2025-05-01
 venue: 'IJCAI'
-paperurl: ''
+paperurl: 'https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/549.pdf'
 citation: ''
 ---
 
