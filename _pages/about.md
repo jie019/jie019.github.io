@@ -18,6 +18,7 @@ If you have any questions, comments or collaboration ideas, please feel free to 
 
 ## 📰 News
 
+- **2025-09** — I have been invited to be a reviewer for the ICLR 2026.
 - **2025-08** — I have been invited to be a reviewer for the AAAI 2026.
 - **2025-05** — One paper accepted at **ICML**, many thanks to all co-authors!  
 - **2025-05** — One paper accepted at **IJCAI**, many thanks to all co-authors!
