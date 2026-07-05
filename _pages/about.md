@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I’m Shijie Wang, a Ph.D. student at the School of Intelligence Science and Technology, Nanjing University, supervised by Prof. [Yuan Xiaotong](https://sites.google.com/site/xtyuan1980/). Prior to this, I was a Master’s student at the Big Data Industry Research Institute, Shanxi University, supervised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/) and Associate Prof. [Xinyan Liang](https://xinyanliang.github.io/). My research focuses on:
+Welcome to my personal website! I am currently a Ph.D. student at the School of Intelligence Science and Technology, Nanjing University, supervised by Prof. [Yuan Xiaotong](https://sites.google.com/site/xtyuan1980/). Prior to this, I was a Master’s student at the Big Data Industry Research Institute, Shanxi University, supervised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/) and Associate Prof. [Xinyan Liang](https://xinyanliang.github.io/). My research focuses on:
 
 - Artificial Intelligence for Science, with a focus on meteorology
 - Signal Processing  
